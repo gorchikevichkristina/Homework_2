@@ -1,0 +1,15 @@
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.csproj.AssemblyReference.cache
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.AssemblyInfoInputs.cache
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.AssemblyInfo.cs
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.csproj.CoreCompileInputs.cache
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\bin\Debug\net7.0\task15_dz_2.exe
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\bin\Debug\net7.0\task15_dz_2.deps.json
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\bin\Debug\net7.0\task15_dz_2.runtimeconfig.json
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\bin\Debug\net7.0\task15_dz_2.dll
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\bin\Debug\net7.0\task15_dz_2.pdb
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.dll
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\refint\task15_dz_2.dll
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.pdb
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\task15_dz_2.genruntimeconfig.cache
+D:\программирование\C#\sharpseminar\Homework\task15_dz_2\obj\Debug\net7.0\ref\task15_dz_2.dll
